@@ -23,9 +23,6 @@ Have a look at the files, and use the terminal to build them by using c++ 11:
     $ ./MAIN
     
     
- Copyright: All rights reversed.
-
-
 This C++ project is the implementation of a data processing
 system via data structure. Each record in the system contains a unique key (a string), a secondary key (allow duplicates), and non-key fields. 
 
@@ -43,4 +40,6 @@ c) List data sorted by the secondary key
 - Quit.
 At the end of the program, the file is to be automatically written to a disk file. This is in addition
 to the menu write to file option.
+
+ Copyright: All rights reversed.
 
