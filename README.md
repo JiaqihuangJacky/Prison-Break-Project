@@ -46,4 +46,6 @@ c) List data sorted by the secondary key
 At the end of the program, the file is to be automatically written to a disk file. This is in addition
 to the menu write to file option.
 
+For more information please read Description.ppt
+
 
